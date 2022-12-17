@@ -36,9 +36,9 @@ ________________________________________________________________________
 
 ## Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types
 
-1) Rural cities have the least amount of drivers; as well as having the least amount of rides offered.  This would be more of an issue if the number of rides far exceed the reasonable number of drives per person. 
-2) Rural cities also have higher rates per driver due to distance traveled is further then it would likely be in another city type.  In an urban community, a person may only need a rideshare for 5 miles. While a person in a rural city, could require a ride-share for 15 miles.  The price per mile should be the same, so that's why the rural fares per driver is more than other city types. 
-3) Rural and Suburban ride-share count exceed the number of drivers. It is critical to know that this data is for several months, and every driver can choose to drive that day or not.  One driver may choose to do 10 ride-shares or none. 
+1) Rural cities have the least amount of drivers; as well as having the least amount of rides offered.  This would be more of an issue if the number of rides far exceeds the reasonable number of drives per person.  For continued growth in this market, it would be recommended to focus some marketing on this demographic, but maybe not a large portion of the budget. 
+2) Rural cities also have higher rates per driver due to distance traveled is further then it would likely be in another city type.  In an urban community, a person may only need a rideshare for 5 miles. While a person in a rural city, could require a ride-share for 15 miles.  It would be recommended to focus on that the price for the ride-share is the same in different city types in marketing materials.  
+3) Rural and Suburban ride-share count exceeds the number of drivers. It is critical to know that this data is for several months, and every driver can choose to drive that day or not.  One driver may choose to do 10 ride-shares or none.  Any help wanted ads should focus on the fact the driver's make their own schedule.
 
 
 
