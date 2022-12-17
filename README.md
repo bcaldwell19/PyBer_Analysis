@@ -19,7 +19,7 @@ ________________________________________________________________________
 
 ##Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 
-[Summary_Data_Frame_Goes_Here]
+![](Analysis/Module5_table.PNG)
 
 Urban cities have the most drivers. Suburban cities have the second largest number of drivers, and rural cities have the least number of drivers. 
 
@@ -28,7 +28,7 @@ This could also lead to more fares paid as well depending on some other factors.
 
 Average fare per ride and driver seem to be some correlation to distance traveled.  As fares per driver and ride are more expensive for rural cities as everything is more spread out versus suburban and urban cities. 
 
-[Graph_Goes_Here]
+![](Analysis/PyBer_fare_summary.png)
 
 None of the city types seem to have any pattern to their weekly rideshare fares.  Urban cities have the most amount of fares and rural cities have the least amount of fares.  Suburban cities have more fares than rural cities but less than urban cities. 
  
